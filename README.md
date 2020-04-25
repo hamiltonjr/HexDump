@@ -19,6 +19,9 @@ A interesting test for the program is
 showing hexdump code dumping. The code is sufficient great to offers a great presentation.
 
 A set of test files are available in the project. The users can do their own test files.
-The number of bytes in each test file tests limit conditions of the program.
+The number of bytes in each test file tests limit conditions of the program. A test of 
+this type would be are something like:
+
+./hexdump bytes_07
 
 Contributors are welcome. Use the default Pull Request GitHub method to contribute.
